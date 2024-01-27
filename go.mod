@@ -1,6 +1,6 @@
 module github.com/khulnasoft-lab/shuffledns
 
-go 1.20
+go 1.19
 
 require (
 	github.com/khulnasoft-lab/goflags v0.1.16
