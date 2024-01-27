@@ -1,6 +1,6 @@
 FROM golang:1.21.6-alpine as build-env
 RUN apk --no-cache add git
-RUN go install -v github.com/khulnasoft-labs/shuffledns/cmd/shuffledns@latest
+RUN go install -v github.com/khulnasoft-lab/shuffledns/cmd/shuffledns@latest
 
 FROM alpine:3.17.3
 RUN apk --update --no-cache add ldns \

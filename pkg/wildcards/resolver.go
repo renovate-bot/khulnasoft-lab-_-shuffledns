@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/miekg/dns"
-	"github.com/khulnasoft-labs/roundrobin/transport"
+	"github.com/khulnasoft-lab/roundrobin/transport"
 	"github.com/rs/xid"
 )
 

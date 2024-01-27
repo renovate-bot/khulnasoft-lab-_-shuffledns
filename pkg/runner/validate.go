@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/khulnasoft-labs/gologger"
-	"github.com/khulnasoft-labs/gologger/formatter"
-	"github.com/khulnasoft-labs/gologger/levels"
-	"github.com/khulnasoft-labs/shuffledns/pkg/massdns"
+	"github.com/khulnasoft-lab/gologger"
+	"github.com/khulnasoft-lab/gologger/formatter"
+	"github.com/khulnasoft-lab/gologger/levels"
+	"github.com/khulnasoft-lab/shuffledns/pkg/massdns"
 )
 
 // validateOptions validates the configuration options passed

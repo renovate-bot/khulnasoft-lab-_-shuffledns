@@ -7,11 +7,11 @@
 
 
 <p align="center">
-<a href="https://goreportcard.com/report/github.com/khulnasoft-labs/shuffledns"><img src="https://goreportcard.com/badge/github.com/khulnasoft-labs/shuffledns"></a>
-<a href="https://github.com/khulnasoft-labs/shuffledns/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
-<a href="https://github.com/khulnasoft-labs/shuffledns/releases"><img src="https://img.shields.io/github/release/khulnasoft-labs/shuffledns"></a>
+<a href="https://goreportcard.com/report/github.com/khulnasoft-lab/shuffledns"><img src="https://goreportcard.com/badge/github.com/khulnasoft-lab/shuffledns"></a>
+<a href="https://github.com/khulnasoft-lab/shuffledns/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+<a href="https://github.com/khulnasoft-lab/shuffledns/releases"><img src="https://img.shields.io/github/release/khulnasoft-lab/shuffledns"></a>
 <a href="https://twitter.com/pdiscoveryio"><img src="https://img.shields.io/twitter/follow/pdiscoveryio.svg?logo=twitter"></a>
-<a href="https://discord.gg/khulnasoft-labs"><img src="https://img.shields.io/discord/695645237418131507.svg?logo=discord"></a>
+<a href="https://discord.gg/khulnasoft-lab"><img src="https://img.shields.io/discord/695645237418131507.svg?logo=discord"></a>
 </p>
       
 <p align="center">
@@ -20,7 +20,7 @@
   <a href="#running-shuffledns">Run</a> •
   <a href="#handling-wildcards">Wildcard</a> •
   <a href="#license">License</a> •
-  <a href="https://discord.gg/khulnasoft-labs">Discord</a>
+  <a href="https://discord.gg/khulnasoft-lab">Discord</a>
 </p>
 
 ---
@@ -112,7 +112,7 @@ The tool also needs a list of valid resolvers. The [dnsvalidator](https://github
 `shuffledns` requires `go1.19+` to install successfully. Run the following command to install the latest version: 
 
 ```bash
-go install -v github.com/khulnasoft-labs/shuffledns/cmd/shuffledns@latest
+go install -v github.com/khulnasoft-lab/shuffledns/cmd/shuffledns@latest
 ```
 
 ## Running shuffledns
@@ -172,4 +172,4 @@ A special feature of `shuffleDNS` is its ability to handle multi-level DNS based
 
 ### License
 
-`shuffledns` is distributed under [GPL v3 License](https://github.com/khulnasoft-labs/shuffledns/blob/main/LICENSE.md)
+`shuffledns` is distributed under [GPL v3 License](https://github.com/khulnasoft-lab/shuffledns/blob/main/LICENSE.md)

@@ -13,9 +13,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/khulnasoft-labs/gologger"
-	"github.com/khulnasoft-labs/shuffledns/internal/store"
-	"github.com/khulnasoft-labs/shuffledns/pkg/parser"
+	"github.com/khulnasoft-lab/gologger"
+	"github.com/khulnasoft-lab/shuffledns/internal/store"
+	"github.com/khulnasoft-lab/shuffledns/pkg/parser"
 	"github.com/remeh/sizedwaitgroup"
 	"github.com/rs/xid"
 )

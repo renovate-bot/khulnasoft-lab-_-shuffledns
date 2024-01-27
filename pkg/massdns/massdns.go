@@ -3,7 +3,7 @@ package massdns
 import (
 	"sync"
 
-	"github.com/khulnasoft-labs/shuffledns/pkg/wildcards"
+	"github.com/khulnasoft-lab/shuffledns/pkg/wildcards"
 )
 
 // Client is a client for running massdns on a target

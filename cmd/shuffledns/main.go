@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/khulnasoft-labs/gologger"
-	"github.com/khulnasoft-labs/shuffledns/pkg/runner"
+	"github.com/khulnasoft-lab/gologger"
+	"github.com/khulnasoft-lab/shuffledns/pkg/runner"
 )
 
 func main() {
